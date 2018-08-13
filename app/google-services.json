@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053632652711",
+    "firebase_url": "https://bash-ae887.firebaseio.com",
+    "project_id": "bash-ae887",
+    "storage_bucket": "bash-ae887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053632652711:android:f17701fb8ec3342b",
+        "android_client_info": {
+          "package_name": "com.example.user.bash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053632652711-mo9cc9e4ti5j1img731evfsk8vjk4mp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_8aJJA39NQc2K_RVY7lxJtnkIMGDvcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
